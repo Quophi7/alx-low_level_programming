@@ -4,7 +4,7 @@
 
 /**
  * main - A program that prints all numbers of base sixteen in lowercase
- * Retunr: 0 (Excellent)
+ * Return:0 (Excellent)
  */
 
 int main(void)
