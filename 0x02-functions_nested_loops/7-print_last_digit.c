@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_las_digit = Prints the last digit of a number
- * @n: The number to be treated
+ * print_last_digit = Prints the last digit of a number
+ * @n: The number to be treated as
  * Return: Value of the last digit of number
  */
 
