@@ -5,8 +5,9 @@
  *
  * Return: Always 0.
  */
+
 int main(void)
 {
-	print_most_numbers();
+	print_most_number();
 	return (0);
 }
