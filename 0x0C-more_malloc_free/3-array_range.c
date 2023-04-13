@@ -40,7 +40,6 @@ int *array_range(int min, int max)
  */
 
 int main(void)
-
 {
 	int *a;
 
@@ -48,5 +47,4 @@ int main(void)
 	simple_print_buffer(a, 11);
 	free(a);
 	return (0);
-
 }
